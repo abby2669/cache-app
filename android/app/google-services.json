@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "266641115903",
+    "project_id": "catch-wheel",
+    "storage_bucket": "catch-wheel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266641115903:android:48f1ec31a6cd03d6465aca",
+        "android_client_info": {
+          "package_name": "com.catchwheels.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266641115903-878aslk54p134qb54a6al4mh498dh7q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.catchwheels.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "266641115903-o3ht6msntjgp8g5vf7unthd2vvrhq94l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.catchwheels.app",
+            "certificate_hash": "e32294d70fce57e2eda1cee9ec3875ff2eb9ae65"
+          }
+        },
+        {
+          "client_id": "266641115903-qbn1b32cv11r0b3fc6t4b6q8khc7lg8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPrQ304ZvRTVbiIw9QeyZNilpFjU-RMkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266641115903-qbn1b32cv11r0b3fc6t4b6q8khc7lg8e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "266641115903-3q8ed6p5onrk0a8l16tmglcjp4fc2di8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.catchwheels.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
